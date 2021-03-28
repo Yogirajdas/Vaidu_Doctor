@@ -1,7 +1,7 @@
 # Vaidu_Doctor
 This is an AI & AR based platform for diagnosing & consulting heath issues.
 Here 3 categories are available. 
-1. Diagnose plant leaves in your graden or farms. 
+1. Diagnose plant leaves in your garden or farms. 
 2. Diagnose you using chest x-rays.
 3. You can ask/consult Vaidu for health problem your are facing.
 
